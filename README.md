@@ -1,16 +1,23 @@
-### Hi there 👋
+# Lucas Lopes
 
-<!--
-**lucaslpsan/lucaslpsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My LinkedIn](./my-linkedin-lucaslpsan-badge.svg)](https://www.linkedin.com/in/lucaslpsan/)
+[![My site](./my-site-lucaslpsan-badge.svg)](https://lucaslpsan.dev/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá 😅
+
+Sou desenvolvedor front-end, graduado em Sistemas de Informação e fascinado por interfaces.
+
+### Sobre 💬
+* Front-end Júnior no Grupo NT - Brasília.
+* Bootcamp Full Stack pelo IGTI.
+
+### Minhas Stacks 👨‍💻
+* Desenvolvimento Web
+* NodeJS
+* Svelte e React
+* Banco de Dados Oracle
+* Aprendendo:
+  * React Avançado e seu ecossistema
+ ___
