@@ -1,7 +1,7 @@
 # Lucas Lopes
 
-[![My LinkedIn](./my-linkedin-lucaslpsan-badge.svg)](https://www.linkedin.com/in/lucaslpsan/)
-[![My site](./my-site-lucaslpsan-badge.svg)](https://lucaslpsan.dev/)
+[![My LinkedIn](https://raw.githubusercontent.com/lucaslpsan/lucaslpsan/master/my-linkedin-lucaslpsan-badge.svg)](https://www.linkedin.com/in/lucaslpsan/)
+[![My site](https://raw.githubusercontent.com/lucaslpsan/lucaslpsan/master/my-site-lucaslpsan-badge.svg)](https://lucaslpsan.dev/)
 
 ---
 
